@@ -1,0 +1,54 @@
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Assembly-CSharp.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DemiLib.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween43.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween46.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween50.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTweenPro.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEditor.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.UI.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Mono.Cecil.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.DataContract.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.CecilTools.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.xml
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEditor.xml
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.UI.xml
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\obj\Debug\Assembly-CSharp.dll
+E:\工作用接受\Cave In +AUDIO 1.1.2 3.20hao\Cave In +AUDIO 1.1.2\obj\Debug\Assembly-CSharp.pdb
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Assembly-CSharp.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DemiLib.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween43.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween46.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTween50.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\DOTweenPro.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEditor.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.UI.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Mono.Cecil.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.DataContract.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.UNetWeaver.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Unity.CecilTools.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.xml
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEditor.xml
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.UI.xml
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\obj\Debug\Assembly-CSharp.dll
+H:\Year One\Group Project\Cave In +AUDIO 1.1.2 NEW BLACKGROUND\Cave In +AUDIO 1.1.2\obj\Debug\Assembly-CSharp.pdb
